@@ -1,5 +1,22 @@
 # 📊 Retail Sales Analysis with SQL Server  
-
+## 📑 Table of Contents  
+1. [About the Project](#-about-the-project)  
+2. [Project Workflow](#-project-workflow)  
+   - [Importing the Data](#1️⃣-importing-the-data)  
+   - [Data Cleaning](#2️⃣-data-cleaning)  
+3. [Business Questions Answered](#-business-questions-answered)  
+   1. Sales made on 2022-11-05  
+   2. Clothing transactions with quantity > 4 (Nov 2022)  
+   3. Total sales for each category  
+   4. Average age of Beauty customers  
+   5. Transactions with total sales > 1000  
+   6. Transactions by gender in each category  
+   7. Average sales per month & best-selling month  
+   8. Top 5 customers by total sales  
+   9. Unique customers per category  
+   10. Orders by shift (Morning, Afternoon, Evening)  
+4. [Key Insights](#-key-insights)  
+5. [Tools Used](#-tools-used)
 ## 🔎 About the Project  
 This project demonstrates the use of *SQL Server Management Studio (SSMS)* to perform *data cleaning* and *business analysis* on a retail sales dataset.  
 
