@@ -12,7 +12,7 @@ I created a *Retail Sales Database, imported raw data from a CSV file, cleaned i
 ### 1️⃣ Importing the Data  
 - Created a *RetailSales* database in SQL Server.
   ![Database Creation](https://github.com/AnimashaunRoheemot/-Retail-Sales-Analysis-with-SQL-Server/blob/main/db_creation.png.png)
-  ![Database Creation Confirmation](images/db_creation_confirm.png) 
+  ![Database Creation Confirmation](https://github.com/AnimashaunRoheemot/-Retail-Sales-Analysis-with-SQL-Server/blob/main/Screenshot%20(144).png) 
 - Imported the CSV file as a flat file into the database.
   ![CSV Import Step 1](https://github.com/AnimashaunRoheemot/-Retail-Sales-Analysis-with-SQL-Server/blob/main/Screenshot%20(146).png)  
 ![CSV Import Step 2](images/csv_import2.png)  
