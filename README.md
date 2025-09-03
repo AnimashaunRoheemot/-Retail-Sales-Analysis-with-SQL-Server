@@ -10,16 +10,14 @@ I created a *Retail Sales Database, imported raw data from a CSV file, cleaned i
 ## 📂 Project Workflow  
 
 ### 1️⃣ Importing the Data  
-- Created a *RetailSales* database in SQL Server.  
-- Imported the CSV file as a flat file into the database.  
-- Verified successful import.  
-
-📸 Screenshots:  
-![Database Creation](https://github.com/AnimashaunRoheemot/-Retail-Sales-Analysis-with-SQL-Server/blob/main/db_creation.png.png)  
-![Database Creation Confirmation](images/db_creation_confirm.png)  
-![CSV Import Step 1](images/csv_import1.png)  
+- Created a *RetailSales* database in SQL Server.
+  ![Database Creation](https://github.com/AnimashaunRoheemot/-Retail-Sales-Analysis-with-SQL-Server/blob/main/db_creation.png.png)
+  ![Database Creation Confirmation](images/db_creation_confirm.png) 
+- Imported the CSV file as a flat file into the database.
+  ![CSV Import Step 1](https://github.com/AnimashaunRoheemot/-Retail-Sales-Analysis-with-SQL-Server/blob/main/Screenshot%20(146).png)  
 ![CSV Import Step 2](images/csv_import2.png)  
 ![CSV Import Step 3](images/csv_import3.png)  
+- Verified successful import.  
 
 ---
 
