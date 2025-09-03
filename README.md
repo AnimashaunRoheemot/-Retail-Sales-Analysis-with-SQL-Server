@@ -10,16 +10,16 @@ I created a *Retail Sales Database, imported raw data from a CSV file, cleaned i
 ## 📂 Project Workflow  
 
 ### 1️⃣ Importing the Data  
-- Created a *RetailSales* database in SQL Server.
+- ### Created a *RetailSales* database in SQL Server.
   ![Database Creation](https://github.com/AnimashaunRoheemot/-Retail-Sales-Analysis-with-SQL-Server/blob/main/db_creation.png.png)
   ![Database Creation Confirmation](https://github.com/AnimashaunRoheemot/-Retail-Sales-Analysis-with-SQL-Server/blob/main/Screenshot%20(144).png) 
-- Imported the CSV file as a flat file into the database.
+- ### Imported the CSV file as a flat file into the database.
   ![CSV Import Step 1](https://github.com/AnimashaunRoheemot/-Retail-Sales-Analysis-with-SQL-Server/blob/main/Screenshot%20(146).png)  
 ![CSV Import Step 2](https://github.com/AnimashaunRoheemot/-Retail-Sales-Analysis-with-SQL-Server/blob/main/Screenshot%20(147).png)  
 ![CSV Import Step 3](https://github.com/AnimashaunRoheemot/-Retail-Sales-Analysis-with-SQL-Server/blob/main/Screenshot%20(148).png)  
-- Verified successful import.  
+- ### Verified successful import and select Top 1000 of the dataset. 
 ![verify import1](https://github.com/AnimashaunRoheemot/-Retail-Sales-Analysis-with-SQL-Server/blob/main/Screenshot%20(149).png)
-![show top 1000 of dataset](images/csv_import3.png) 
+![show top 1000 of dataset](https://github.com/AnimashaunRoheemot/-Retail-Sales-Analysis-with-SQL-Server/blob/main/Screenshot%20(152).png) 
 ---
 
 ### 2️⃣ Data Cleaning  
