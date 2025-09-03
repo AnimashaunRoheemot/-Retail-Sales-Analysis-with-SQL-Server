@@ -15,10 +15,11 @@ I created a *Retail Sales Database, imported raw data from a CSV file, cleaned i
   ![Database Creation Confirmation](https://github.com/AnimashaunRoheemot/-Retail-Sales-Analysis-with-SQL-Server/blob/main/Screenshot%20(144).png) 
 - Imported the CSV file as a flat file into the database.
   ![CSV Import Step 1](https://github.com/AnimashaunRoheemot/-Retail-Sales-Analysis-with-SQL-Server/blob/main/Screenshot%20(146).png)  
-![CSV Import Step 2](images/csv_import2.png)  
+![CSV Import Step 2](https://github.com/AnimashaunRoheemot/-Retail-Sales-Analysis-with-SQL-Server/blob/main/Screenshot%20(147).png)  
 ![CSV Import Step 3](images/csv_import3.png)  
 - Verified successful import.  
-
+![CSV Import Step 3](images/csv_import3.png)
+![CSV Import Step 3](images/csv_import3.png) 
 ---
 
 ### 2️⃣ Data Cleaning  
