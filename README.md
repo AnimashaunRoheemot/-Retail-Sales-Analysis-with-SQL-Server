@@ -18,8 +18,8 @@ I created a *Retail Sales Database, imported raw data from a CSV file, cleaned i
 ![CSV Import Step 2](https://github.com/AnimashaunRoheemot/-Retail-Sales-Analysis-with-SQL-Server/blob/main/Screenshot%20(147).png)  
 ![CSV Import Step 3](https://github.com/AnimashaunRoheemot/-Retail-Sales-Analysis-with-SQL-Server/blob/main/Screenshot%20(148).png)  
 - Verified successful import.  
-![CSV Import Step 3](images/csv_import3.png)
-![CSV Import Step 3](images/csv_import3.png) 
+![verify import1](https://github.com/AnimashaunRoheemot/-Retail-Sales-Analysis-with-SQL-Server/blob/main/Screenshot%20(149).png)
+![show top 1000 of dataset](images/csv_import3.png) 
 ---
 
 ### 2️⃣ Data Cleaning  
