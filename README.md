@@ -20,16 +20,13 @@ I created a *Retail Sales Database, imported raw data from a CSV file, cleaned i
 - ### Verified successful import and select Top 1000 of the dataset. 
 ![verify import1](https://github.com/AnimashaunRoheemot/-Retail-Sales-Analysis-with-SQL-Server/blob/main/Screenshot%20(149).png)
 ![show top 1000 of dataset](https://github.com/AnimashaunRoheemot/-Retail-Sales-Analysis-with-SQL-Server/blob/main/Screenshot%20(152).png) 
----
 
 ### 2️⃣ Data Cleaning  
-- Fixed a column name typo: changed quantiy → quantity.  
-- Checked and removed null values from the dataset.  
-
-📸 Screenshots:  
-![Column Rename](images/column_rename.png)  
-![Check Nulls](images/check_nulls.png)  
-![Remove Nulls](images/remove_nulls.png)  
+- ### Fixed a column name typo: changed quantiy → quantity.
+  ![Column Rename](https://github.com/AnimashaunRoheemot/-Retail-Sales-Analysis-with-SQL-Server/blob/main/Screenshot%20(158).png) 
+- ### Checked and removed null values from the dataset.    
+![Check Nulls](https://github.com/AnimashaunRoheemot/-Retail-Sales-Analysis-with-SQL-Server/blob/main/Screenshot%20(159).png)  
+![Remove Nulls](https://github.com/AnimashaunRoheemot/-Retail-Sales-Analysis-with-SQL-Server/blob/main/Screenshot%20(160).png)  
 
 ---
 
