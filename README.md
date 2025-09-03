@@ -32,41 +32,41 @@ I created a *Retail Sales Database, imported raw data from a CSV file, cleaned i
 
 ## 🎯 Business Questions Answered  
 
-1. Retrieve all sales made on *2022-11-05*  
-   ![Sales on Date](images/sales_on_date.png)  
+1. # Retrieve all sales made on *2022-11-05*  
+   ![Sales on Date](https://github.com/AnimashaunRoheemot/-Retail-Sales-Analysis-with-SQL-Server/blob/main/Screenshot%20(161).png)  
 
-2. Retrieve all *Clothing transactions* where the quantity sold is greater than 4 in November 2022  
+2. # Retrieve all *Clothing transactions* where the quantity sold is greater than 4 in November 2022  
    📌 Result: No transaction met this condition  
-   ![Clothing Query](images/clothing_query.png)  
+   ![Clothing Query](https://github.com/AnimashaunRoheemot/-Retail-Sales-Analysis-with-SQL-Server/blob/main/Screenshot%20(162).png)  
 
-3. Calculate *total sales for each category*  
+3. # Calculate *total sales for each category*  
    📌 Result: Electronics had the highest sales, Beauty had the lowest  
-   ![Sales by Category](images/sales_by_category.png)  
+   ![Sales by Category](https://github.com/AnimashaunRoheemot/-Retail-Sales-Analysis-with-SQL-Server/blob/main/Screenshot%20(165).png)  
 
-4. Find the *average age of customers* who purchased from the Beauty category  
+4. # Find the *average age of customers* who purchased from the Beauty category  
    📌 Result: Average age = 40  
-   ![Beauty Age](images/beauty_age.png)  
+   ![Beauty Age](https://github.com/AnimashaunRoheemot/-Retail-Sales-Analysis-with-SQL-Server/blob/main/Screenshot%20(166).png)  
 
-5. Find all *transactions where total sales > 1000*  
-   ![Sales Above 1000](images/sales_above_1000.png)  
+5. # Find all *transactions where total sales > 1000*  
+   ![Sales Above 1000](https://github.com/AnimashaunRoheemot/-Retail-Sales-Analysis-with-SQL-Server/blob/main/Screenshot%20(167).png)  
 
-6. Find the *number of transactions* made by each gender in each category  
+6. # Find the *number of transactions* made by each gender in each category  
    📌 Result: Female customers had the highest transactions  
-   ![Transactions by Gender](images/transactions_by_gender.png)  
+   ![Transactions by Gender](https://github.com/AnimashaunRoheemot/-Retail-Sales-Analysis-with-SQL-Server/blob/main/Screenshot%20(168).png)  
 
-7. Calculate the *average sales per month* and identify the *best-selling month* in each year  
-   📌 Result: July 2022 (Month 7) & February 2023 (Month 2)  
-   ![Monthly Sales](images/monthly_sales.png)  
+7. # Calculate the *average sales per month* and identify the *best-selling month* in each year  
+   📌 Result:  (Month 7) which is july is best selling month for 2022 &  (Month 2)  which is february is the best selling month for 2023.
+   ![Monthly Sales](https://github.com/AnimashaunRoheemot/-Retail-Sales-Analysis-with-SQL-Server/blob/main/Screenshot%20(170).png)  
 
-8. Find the *top 5 customers* based on highest total sales  
-   ![Top 5 Customers](images/top5_customers.png)  
+8. # Find the *top 5 customers* based on highest total sales  
+   ![Top 5 Customers](https://github.com/AnimashaunRoheemot/-Retail-Sales-Analysis-with-SQL-Server/blob/main/Screenshot%20(171).png)  
 
-9. Find the *number of unique customers* in each category  
-   ![Unique Customers](images/unique_customers.png)  
+9. # Find the *number of unique customers* in each category  
+   ![Unique Customers](https://github.com/AnimashaunRoheemot/-Retail-Sales-Analysis-with-SQL-Server/blob/main/Screenshot%20(173).png)  
 
-10. Create *sales shifts* (Morning <12, Afternoon 12–17, Evening >17) and calculate the number of orders in each shift  
+10. # Create *sales shifts* (Morning <12, Afternoon 12–17, Evening >17) and calculate the number of orders in each shift  
     📌 Result: Evening shift had the highest orders, Afternoon had the lowest  
-    ![Orders by Shift](images/orders_by_shift.png)  
+    ![Orders by Shift](https://github.com/AnimashaunRoheemot/-Retail-Sales-Analysis-with-SQL-Server/blob/main/Screenshot%20(176).png)  
 
 ---
 
